@@ -67,5 +67,7 @@ if __name__ == "__main__":
     index_arr = sumtwo(arr, target)
     print(index_arr)
     
+    #TRY DICTIONARY instead !!!
+    
     
     
